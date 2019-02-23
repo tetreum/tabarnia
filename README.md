@@ -1,6 +1,6 @@
 # Tabarnia
 
-![Screenshot](https://tetreum.github.io/tabarnia/screenshot1.png)
+![Screenshot](https://raw.githubusercontent.com/tetreum/tabarnia/master/docs/screenshot1.png)
 
 Playing with Sketchup and Unity.
 
