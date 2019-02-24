@@ -22,6 +22,13 @@ ModelImporter:
     100032: Road4x4_1
     100034: BorderSewer1
     100036: Mesh9
+    100038: Mesh10
+    100040: Mesh11
+    100042: SidewalkSlope1
+    100044: SidewalkSlopeBorderRight1
+    100046: SidewalkSlopeBorder1
+    100048: Mesh12
+    100050: SidewalkHalfTile1
     400000: Mesh1
     400002: //RootNode
     400004: TreePot1
@@ -41,6 +48,13 @@ ModelImporter:
     400032: Road4x4_1
     400034: BorderSewer1
     400036: Mesh9
+    400038: Mesh10
+    400040: Mesh11
+    400042: SidewalkSlope1
+    400044: SidewalkSlopeBorderRight1
+    400046: SidewalkSlopeBorder1
+    400048: Mesh12
+    400050: SidewalkHalfTile1
     2100000: FrontColor
     2100002: BackColor
     2100004: Sidewalk
@@ -57,6 +71,9 @@ ModelImporter:
     2300012: Mesh7
     2300014: Mesh8
     2300016: Mesh9
+    2300018: Mesh10
+    2300020: Mesh11
+    2300022: Mesh12
     3300000: Mesh1
     3300002: Mesh2
     3300004: Mesh3
@@ -66,6 +83,9 @@ ModelImporter:
     3300012: Mesh7
     3300014: Mesh8
     3300016: Mesh9
+    3300018: Mesh10
+    3300020: Mesh11
+    3300022: Mesh12
     4300000: Mesh1
     4300002: Mesh2
     4300004: Mesh3
@@ -75,6 +95,9 @@ ModelImporter:
     4300012: Mesh7
     4300014: Mesh8
     4300016: Mesh9
+    4300018: Mesh10
+    4300020: Mesh11
+    4300022: Mesh12
   externalObjects: {}
   materials:
     importMaterials: 1
