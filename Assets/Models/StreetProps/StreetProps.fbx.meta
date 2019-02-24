@@ -11,6 +11,9 @@ ModelImporter:
     100010: Mesh3
     100012: Trashbin1
     100014: Mesh4
+    100016: Mesh5
+    100018: TrashContainer1
+    100020: TrafficLight1
     400000: Mesh1
     400002: //RootNode
     400004: ElectronicProp1_1
@@ -19,6 +22,9 @@ ModelImporter:
     400010: Mesh3
     400012: Trashbin1
     400014: Mesh4
+    400016: Mesh5
+    400018: TrashContainer1
+    400020: TrafficLight1
     2100000: FrontColor
     2100002: BackColor
     2100004: Grey
@@ -29,14 +35,17 @@ ModelImporter:
     2300002: Mesh2
     2300004: Mesh3
     2300006: Mesh4
+    2300008: Mesh5
     3300000: Mesh1
     3300002: Mesh2
     3300004: Mesh3
     3300006: Mesh4
+    3300008: Mesh5
     4300000: Mesh1
     4300002: Mesh2
     4300004: Mesh3
     4300006: Mesh4
+    4300008: Mesh5
   externalObjects: {}
   materials:
     importMaterials: 1
