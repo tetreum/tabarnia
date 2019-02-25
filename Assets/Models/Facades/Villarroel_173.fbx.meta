@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 77cc3b985d50f864cb7cc8f5e9167a8f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Mesh1
+    100002: //RootNode
+    400000: Mesh1
+    400002: //RootNode
+    2100000: Tile_Limestone_Multi
+    2100002: BackColor
+    2100004: Color_D01
+    2100006: FrontColor
+    2100008: Formica_Laminate_Dark
+    2100010: _Translucent_Glass_Sky_Reflection_1
+    2100012: Translucent_Glass_Gray
+    2100014: Terrazzo_Tile_Light
+    2100016: Formica_Speckled_Grey
+    2100018: Color_C02
+    2100020: Metal_Seamed
+    2100022: Translucent_Glass_Corrugated
+    2100024: Wood_Square_Tile_02
+    2100026: Wood_Floor_Parquet
+    2100028: Blinds_Wood_White
+    2100030: Wood_Veneer_01
+    2100032: Metal_Steel_Textured_White
+    2100034: Color_B03
+    2100036: Wood_Floor_Light
+    2100038: Mirror_01
+    2100040: Mirror_02
+    2100042: Blinds_Vertical_Pattern
+    2100044: Stone_Sandstone_Ashlar_Light
+    2100046: Tile_Ceramic_Multi
+    2100048: Metal_Embossed
+    2300000: Mesh1
+    3300000: Mesh1
+    4300000: Mesh1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
