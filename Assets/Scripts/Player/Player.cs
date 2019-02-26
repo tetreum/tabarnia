@@ -19,6 +19,7 @@ public class Player : MonoBehaviour {
 
     private void Start() {
         Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 
     private void Update() {
@@ -28,6 +29,9 @@ public class Player : MonoBehaviour {
             movementController.stop();
             
             cameraController.lookAt = nearestCar.cameraPosition;
+        }
+        if (Input.GetKeyDown(KeyCode.Escape)) {
+            Application.Quit();
         }
     }
 
