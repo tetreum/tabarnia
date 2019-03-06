@@ -42,6 +42,9 @@ ModelImporter:
     100072: Zebra2_1
     100074: Mesh19
     100076: Semilines1
+    100078: Road1x2_1
+    100080: Road8x8_1
+    100082: RoadTriangle1
     400000: Mesh1
     400002: //RootNode
     400004: TreePot1
@@ -81,6 +84,9 @@ ModelImporter:
     400072: Zebra2_1
     400074: Mesh19
     400076: Semilines1
+    400078: Road1x2_1
+    400080: Road8x8_1
+    400082: RoadTriangle1
     2100000: FrontColor
     2100002: BackColor
     2100004: Sidewalk
