@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: bd15d6c70b8f5c842b64f027cbf2986e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ALARMA1
+    100002: Aquest_edifici_e1
+    100004: G_1_1
+    100006: G_1_1_1
+    100008: Horari_12_00_a_1_1
+    100010: La_Gretta1
+    100012: La_Gretta2
+    100014: Mesh1
+    100016: Mesh2
+    100018: Mesh3
+    100020: Mesh4
+    100022: Mesh5
+    100024: Mesh6
+    100026: Mesh7
+    100028: Mesh8
+    100030: Mesh9
+    100032: //RootNode
+    100034: Vivienda_protegi1
+    400000: ALARMA1
+    400002: Aquest_edifici_e1
+    400004: G_1_1
+    400006: G_1_1_1
+    400008: Horari_12_00_a_1_1
+    400010: La_Gretta1
+    400012: La_Gretta2
+    400014: Mesh1
+    400016: Mesh2
+    400018: Mesh3
+    400020: Mesh4
+    400022: Mesh5
+    400024: Mesh6
+    400026: Mesh7
+    400028: Mesh8
+    400030: Mesh9
+    400032: //RootNode
+    400034: Vivienda_protegi1
+    2100000: _Wood_Veneer_01_1
+    2100002: M_0137_Black
+    2100004: Color_A06
+    2100006: Color_M09
+    2100008: Color_M04
+    2100010: FrontColor
+    2100012: BackColor
+    2100014: Carpet_Berber_Pattern_Gray
+    2100016: Color_G01
+    2100018: Color_C02
+    2100020: Concrete_Tile
+    2100022: Translucent_Glass_Sky_Reflection
+    2100024: Wood_Floor
+    2100026: Wood_Floor_Parquet
+    2100028: Wood_Veneer_01
+    2100030: Wood_Bamboo
+    2100032: Blinds_Wood_White
+    2100034: M_0011_Seashell
+    2100036: Metal_Aluminum_Anodized
+    2100038: Metal_Seamed
+    2100040: Metal_Steel_Textured
+    2100042: Slate
+    2100044: Granite_Dark_Gray
+    2100046: Color_M05
+    2100048: Color_M02
+    2100050: Color_M06
+    2100052: Color_M03
+    2100054: Color_M07
+    2100056: _Metal_Steel_Textured_1
+    2100058: Tile_Ceramic_Multi
+    2100060: Blinds_Weave
+    2100062: _Wood_Bamboo_1
+    2100064: _Wood_Veneer_01_2
+    2100066: Slate_Light_Tile
+    2100068: _Wood_Floor_1
+    2100070: _Translucent_Glass_Sky_Reflection_1
+    2100072: Blinds_Wood_Bamboo
+    2100074: _Blinds_Weave_1
+    2100076: Color_M00
+    2100078: M_0135_DarkGray
+    2100080: _Wood_Veneer_01_3
+    2100082: _Wood_Floor_Parquet_1
+    2100084: Wood_Floor_Light
+    2100086: _Translucent_Glass_Sky_Reflection_2
+    2100088: Metal_Embossed
+    2100090: _Metal_Steel_Textured_2
+    2100092: Blinds_Cellular_White
+    2100094: Blinds_Vertical_Pattern
+    2100096: Color_H05
+    2300000: Mesh1
+    2300002: Mesh2
+    2300004: Mesh3
+    2300006: Mesh4
+    2300008: Mesh5
+    2300010: Mesh6
+    2300012: Mesh7
+    2300014: Mesh8
+    2300016: Mesh9
+    3300000: Mesh1
+    3300002: Mesh2
+    3300004: Mesh3
+    3300006: Mesh4
+    3300008: Mesh5
+    3300010: Mesh6
+    3300012: Mesh7
+    3300014: Mesh8
+    3300016: Mesh9
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+    4300006: Mesh4
+    4300008: Mesh5
+    4300010: Mesh6
+    4300012: Mesh7
+    4300014: Mesh8
+    4300016: Mesh9
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

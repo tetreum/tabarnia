@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: e855d91c9147b4f4590c21ecbb5f0c7a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ALARMA1
+    100002: C_O_P_I___N1
+    100004: F_O_T_O_C_O_P_I_1
+    100006: G_116_1
+    100008: G_1_1
+    100010: hacemos_las_foto1
+    100012: Mesh1
+    100014: Mesh2
+    100016: Mesh3
+    100018: Mesh4
+    100020: Mesh5
+    100022: Mesh6
+    100024: Mesh7
+    100026: Mesh8
+    100028: Mesh9
+    100030: NO_TE_COPIES1
+    100032: //RootNode
+    100034: Vivienda_protegi1
+    400000: ALARMA1
+    400002: C_O_P_I___N1
+    400004: F_O_T_O_C_O_P_I_1
+    400006: G_116_1
+    400008: G_1_1
+    400010: hacemos_las_foto1
+    400012: Mesh1
+    400014: Mesh2
+    400016: Mesh3
+    400018: Mesh4
+    400020: Mesh5
+    400022: Mesh6
+    400024: Mesh7
+    400026: Mesh8
+    400028: Mesh9
+    400030: NO_TE_COPIES1
+    400032: //RootNode
+    400034: Vivienda_protegi1
+    2100000: Color_A06
+    2100002: Color_M09
+    2100004: FrontColor
+    2100006: BackColor
+    2100008: Color_D02
+    2100010: Color_I05
+    2100012: Field_Rectangle_Tile
+    2100014: Color_M03
+    2100016: Color_C02
+    2100018: White_Subway_Tile
+    2100020: Translucent_Glass_Sky_Reflection
+    2100022: Wood_Floor
+    2100024: _Wood_Bamboo_2
+    2100026: Concrete_Tile
+    2100028: Color_I01
+    2100030: Blinds_Wood_White
+    2100032: Metal_Aluminum_Anodized
+    2100034: Wood_Floor_Parquet
+    2100036: Metal_Steel_Textured
+    2100038: Concrete_Masonry_Unit
+    2100040: Slate
+    2100042: Granite_Dark_Gray
+    2100044: Color_M05
+    2100046: Color_M02
+    2100048: Color_M06
+    2100050: Color_M07
+    2100052: Color_G01
+    2100054: _Metal_Steel_Textured_1
+    2100056: Tile_Ceramic_Multi
+    2100058: Steel_Brushed_Stainless
+    2100060: _Wood_Veneer_01_2
+    2100062: _Wood_Floor_1
+    2100064: _Translucent_Glass_Sky_Reflection_1
+    2100066: _Wood_Bamboo_1
+    2100068: Blinds_Wood_Bamboo
+    2100070: Carpet_Diamond_Olive
+    2100072: Color_M00
+    2100074: Color_A02
+    2100076: Aluminum
+    2100078: _Translucent_Glass_Sky_Reflection_2
+    2100080: _Wood_Floor_Parquet_1
+    2100082: Metal_Embossed
+    2100084: Metal_Seamed
+    2100086: _Metal_Steel_Textured_2
+    2100088: Blinds_Vertical_Pattern
+    2100090: Color_H05
+    2100092: Carpet_Berber_Pattern_Gray
+    2100094: Leather_Blue
+    2100096: Concrete_Block_Retaining_Gray
+    2100098: Color_I07
+    2100100: Tile_Large_Brown
+    2100102: _Color_I01_1
+    2100104: _Metal_Seamed_1
+    2100106: Metal_Corrugated_Shiny
+    2300000: Mesh1
+    2300002: Mesh2
+    2300004: Mesh3
+    2300006: Mesh4
+    2300008: Mesh5
+    2300010: Mesh6
+    2300012: Mesh7
+    2300014: Mesh8
+    2300016: Mesh9
+    3300000: Mesh1
+    3300002: Mesh2
+    3300004: Mesh3
+    3300006: Mesh4
+    3300008: Mesh5
+    3300010: Mesh6
+    3300012: Mesh7
+    3300014: Mesh8
+    3300016: Mesh9
+    4300000: Mesh1
+    4300002: Mesh2
+    4300004: Mesh3
+    4300006: Mesh4
+    4300008: Mesh5
+    4300010: Mesh6
+    4300012: Mesh7
+    4300014: Mesh8
+    4300016: Mesh9
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

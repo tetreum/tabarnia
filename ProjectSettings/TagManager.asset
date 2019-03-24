@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Projectile
+  - Unit
+  - Structure
+  - Gib
+  - WaitZone
+  - RoadConnection
+  - Tailgate
+  - TrainJunction
   layers:
   - Default
   - TransparentFX
@@ -13,12 +21,12 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - World
+  - Player
+  - PostProcessing
+  - Road
+  - Sidewalk
+  - Track
   - 
   - 
   - 
