@@ -1,4 +1,4 @@
-![Artwork](https://raw.githubusercontent.com/tetreum/tabarnia/master/artwork.png)
+![Artwork](https://raw.githubusercontent.com/tetreum/tabarnia/master/artwork.jpg)
 
 # Tabarnia
 
@@ -7,6 +7,8 @@
 Playing with Sketchup and Unity.
 
 ## Credits
+
+If you're not listed and did some part of it, open an issue to fix it.
 
 - Buildings: zinerty
 - Car Physics:  https://assetstore.unity.com/packages/tools/physics/arcade-car-physics-119484
