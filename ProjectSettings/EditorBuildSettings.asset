@@ -5,6 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Vendor/UTS_PRO/Scenes/Standard_Crossroad.unity
+    guid: 70bae495e1e414f4c8fed3822d3291eb
+  - enabled: 0
+    path: Assets/Vendor/UTS_PRO/Scenes/Truck_control_Crossroad.unity
+    guid: 2dcdf72e467d74d4da6cefa8f537c251
   - enabled: 1
     path: Assets/Scenes/Test.unity
     guid: 5d6bad3569a02274abccd0a8089014e2

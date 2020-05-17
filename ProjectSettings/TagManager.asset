@@ -4,14 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Projectile
-  - Unit
-  - Structure
-  - Gib
-  - WaitZone
-  - RoadConnection
-  - Tailgate
-  - TrainJunction
+  - People
+  - Car
+  - Bcycle
+  - PeopleSemaphore
   layers:
   - Default
   - TransparentFX
@@ -21,12 +17,12 @@ TagManager:
   - UI
   - 
   - 
-  - World
-  - Player
-  - PostProcessing
-  - Road
-  - Sidewalk
-  - Track
+  - people
+  - car
+  - semaphore
+  - player
+  - 
+  - 
   - 
   - 
   - 

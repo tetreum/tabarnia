@@ -78,5 +78,9 @@ namespace UnityStandardAssets.Characters.ThirdPerson
             m_Character.enabled = false;
             enabled = false;
         }
+        public void start() {
+            m_Character.enabled = true;
+            enabled = true;
+        }
     }
 }
