@@ -144,7 +144,7 @@ namespace VehicleBehaviour {
                 // Accelerate & brake
                 if (throttleInput != "" && throttleInput != null)
                 {
-                    throttle = GetInput(throttleInput) - GetInput(brakeInput);
+                    throttle = GetInput(throttleInput);
                 }
                 // Boost
                 boosting = (GetInput(boostInput) > 0.5f);
@@ -152,8 +152,7 @@ namespace VehicleBehaviour {
                 steering = turnInputCurve.Evaluate(GetInput(turnInput)) * steerAngle;
                 // Dirft
                 drift = GetInput(driftInput) > 0 && _rb.velocity.sqrMagnitude > 100;
-                // Jump
-                //jumping = GetInput(jumpInput) != 0;
+                Handbrake = Input.GetKey(KeyCode.Space);
             }
 
             // Direction

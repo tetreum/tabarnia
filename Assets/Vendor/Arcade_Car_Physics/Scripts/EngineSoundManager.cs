@@ -34,23 +34,35 @@ namespace VehicleBehaviour {
         }
         
         void Update () {
-            if (_vehicle.Handbrake && _source.clip == rolling)
+            if (!_vehicle.IsPlayer) {
+                return;
+            }
+            /*
+             * @Todo: Refactor this:
+             * - Drop the entire class
+             * - Built it over Handbrake getter/setter in WheelVehicle
+             */
+            if (_vehicle.Handbrake && _source.clip != stopping)
             {
                 _source.clip = stopping;
+                _source.pitch = UnityEngine.Random.Range(0.34f, 1);
+                _source.loop = false;
                 _source.Play();
             }
 
-            if (!_vehicle.Handbrake && (_source.clip == stopping || _source.clip == null))
+            if (!_vehicle.Handbrake && _source.clip == null)
             {
                 _source.clip = starting;
+                _source.loop = false;
                 _source.Play();
 
                 _source.pitch = 1;
             }
 
-            if (!_vehicle.Handbrake && !_source.isPlaying)
+            if (!_vehicle.Handbrake && (!_source.isPlaying || _source.clip == stopping))
             {
                 _source.clip = rolling;
+                _source.loop = true;
                 _source.Play();
             }
 
